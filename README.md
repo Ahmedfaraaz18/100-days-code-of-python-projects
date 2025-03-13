@@ -1,2 +1,2 @@
-# 100-days-code-of-python-projects
+# Python projects from udemy course
 Author-Ahmed Faraaz
